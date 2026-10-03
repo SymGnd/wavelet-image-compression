@@ -12,7 +12,6 @@ The idea behind wavelet compression is that most of an image's visual informatio
 - **`wavelet_comp.m`** — Compares reconstruction quality at several thresholds (keeping the top 10%, 5%, 1%, and 0.5% of coefficients) side by side.
 - **`wavelet_decomposition.m`** — Visualizes a two-level Haar wavelet decomposition of an RGB image, showing the approximation and horizontal/vertical/diagonal detail subbands for each color channel.
 - **`EEE4512 Digital Image Processing Project.pdf`** — Project report.
-- **`Image compressıon.pptx`** — Project presentation slides.
 
 ## Requirements
 
